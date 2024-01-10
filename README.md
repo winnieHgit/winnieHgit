@@ -60,7 +60,7 @@
 <div align="left">
 <br />
 
-🌱 Live **[Demo](https://closetup.vercel.app)** 
+🌱 **[Live Demo](https://closetup.vercel.app)** 
 🌱 Repos **[FE](https://github.com/winnieHgit/Frontend-Porfolio-closet)** **[BE](https://github.com/winnieHgit/Backend-Porfolio-closet)** 
 
 
