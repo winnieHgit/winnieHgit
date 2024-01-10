@@ -55,6 +55,7 @@
 
  <h3>🧥 CLOSETUP </h3>
  A website that generates upfits for the user integrate with user's closet and the upcoming weather forecast.
+ You will need to register an account and add few clothes to your closet to see the generated outfits.
 
  
 <div align="left">
