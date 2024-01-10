@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I am a full-time mom and made the transition to the tech industry**
+ 🔭 I am a full-time mom and made the transition to the tech industry
  
  🌱 I completed a 10-weeks intensive bootcamp at **[MindMingle](https://www.mindmingle.nl/)** in fall 2023
 
